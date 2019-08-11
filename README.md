@@ -7,7 +7,9 @@ A simle Pong application. Install required libraries, then run the application f
 ## Current features:
 
 > Customizable player paddles
+
 > Changeable difficulties
+
 > Several game-changing power ups
 
 # Developer Documentation and designs/worklogs located in the 'Documents' folder
